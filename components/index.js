@@ -1,0 +1,5 @@
+export {default as SideBar} from './sidebar/SideBar'
+export {default as NavBar} from './navbar/NavBar'
+export {default as QuickSideBar} from './quickAccessSidebar/QuickSideBar'
+export {default as FiltersSide} from './filterSide/FiltersSide'
+export {default as MainContent} from './mainContent/MainContent'
